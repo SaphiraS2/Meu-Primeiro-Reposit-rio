@@ -1,0 +1,120 @@
+# PENSAMENTO COMPUTACIONAL?
+
+Processo de pensamento envolvido na expressão de soluções em passos 
+computacionais ou algoritmos que podem ser
+implementados no computador.
+
+Dividir um problema
+complexo em subproblemas
+
+Identificar padrões ou
+tendências
+
+Extrapolar o conceito do
+problema para um forma
+generalista
+
+Automatizar
+Definir passo a passo a
+solução do problema.
+
+# RACIOCÍNIO LÓGICO
+
+Raciocínio lógico é uma forma
+de pensamento estruturado, ou raciocínio,
+que permite encontrar a conclusão ou determinar a resolução
+de um problema.
+
+# DECOMPOSIÇÃO
+
+"If you can't solve a problem,
+then there is an easier
+problem that you can solve: find it"
+George Polya – professor e matemático
+
+"Dado um problema complexo, devemos quebra-lo
+em problemas menores. Portanto, problemas
+mais fáceis e gerenciáveis."
+
+# PADRÕES
+Reconhecimento de Padrões
+
+Por que determinar padrões?
+Generelizar, com objetivo de obter
+resolução para problemas diferentes
+
+# ABSTRAÇÃO
+
+ABSTRAIR
+Observar, um ou mais elementos,
+avaliando características e
+propriedades em separado
+
+ABSTRAÇÃO
+Processo intelectual de
+isolamento de um objeto da
+realidade
+
+Generalizar
+Tornar-se geral, mais amplo,
+extensão
+
+Generalização, na lógica, é
+a operação intelectual que
+consiste em reunir numa cl
+asse geral, um conjunto de
+seres ou fenômenos
+similares.
+
+# ALGORITMOS
+Processo de resolução de problemas "step by setp" utilizando
+instruções
+
+# LÓGICA
+Definição formal de lógica
+
+"Parte da filosofia que trata das formas do pensamento
+em geral (dedução, indução, hipótese, inferência etc.) e
+das operações intelectuais que visam à determinação do
+que é verdadeiro ou não."
+
+"Organização e planejamento das instruções, assertivas em
+um algoritmo, a fim de viabilizar a implantação de
+um programa."
+
+# INSTRUÇÕES PRIMITIVAS
+Definição formal
+
+Instruçõessão linguagem de palavras-chave (vocabulário) de
+uma determinada de programação que tem por finalidade
+comandar um computador que irá tratar os dados
+
+#VETORES E MATRIZES
+Definição formal
+
+"Um vetores é caracterizado por uma variavel dimensionada
+com tamanho pré-fixado."
+
+"Matriz é uma tabela organizada em linhas e colunas no form
+ato m x n, onde m representa o número de linhas (horizontal)
+e n o número de colunas (vertical)"
+
+#FUNÇÕES
+Definição formal
+
+As funções, ou sub-rotinas são blocos de instruções que
+realizam tarefas específicas
+
+# INSTRUÇÕES DE ENTRADA/SAÍDA
+Definição formal
+
+Consiste na impressão dos dados do mundo abstrato, digital por
+meio de ação de alguma interface.
+Os formatos podem variar desde simples arquivos binários
+até complexas querys de banco de dados.
+
+# O QUE É UMA LINGUAGEM DE PROGRAMAÇÃO  
+
+Método padronizado composto por um
+conjunto de regras sintáticas e semânticas de
+implementação de um código fonte.
